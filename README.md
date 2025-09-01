@@ -9,9 +9,6 @@ HubCloud Bypasser is a web application designed to help users bypass HubCloud re
 ## Features
 
 - **Extract Direct Links**: Quickly bypass HubCloud to get direct download links.
-- **CORS Workarounds**: Provides solutions for browser security restrictions, including:
-  - Browser extension recommendations.
-  - API endpoint for programmatic access.
 - **Alternative Proxies**: Option to try alternative proxies for accessing HubCloud.
 - **Responsive Design**: Simple and clean UI for ease of use.
 
@@ -33,15 +30,6 @@ HubCloud Bypasser is a web application designed to help users bypass HubCloud re
 2. Enter the HubCloud link in the provided input field.
 3. Click the "Bypass" button to process the link.
 4. View the extracted direct download links or follow the CORS workaround instructions if issues arise.
-
-## CORS Workarounds
-
-Due to browser security policies, direct access to HubCloud may be blocked. The application provides two methods to resolve this:
-
-- **Method 1: Browser Extension**  
-  Install a CORS unblocking extension (e.g., [Chrome Extension](https://chrome.google.com/webstore)).
-- **Method 2: API Endpoint**  
-  Use the provided API endpoint for programmatic access to bypass CORS restrictions.
 
 ## Contributing
 
